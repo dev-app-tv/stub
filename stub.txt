@@ -1,0 +1,11 @@
+GET /hijack/api/usagesummary?companyCode=20&customerNumber=604877340&period=201509&subscriberNumber=66873083979&telephoneType=Postpaid HTTP/1.1
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwLjM1LjI4LjcwIiwidXNlcmNvZGUiOiJMTENIQUlMVUNLIiwidXNlcmxhbiI6Ik9NUkxBTjIifQ.iidM_wBqoiOf39H3P-p-584eskNQlX-TwHPwntsPG5c
+Callerinfo: OMRLAN2|LLCHAILUCK|REST_CLIENT|600790338|66897893394|
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36
+Usercode: LLCHAILUCK
+
